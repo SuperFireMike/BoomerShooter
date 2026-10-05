@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://7dp0noks25iw"]
+
+[node name="Player" type="CharacterBody3D" unique_id=1053256951]
+
+[node name="Camera3D" type="Camera3D" parent="." unique_id=1497753539]
+transform = Transform3D(-1, 0, -8.742278e-08, 0, 1, 0, 8.742278e-08, 0, -1, 0, 0.2798322, -0.29785293)
+fov = 59.0
